@@ -1,0 +1,23 @@
+algorithmClass: gate.plugin.learningframework.engines.AlgorithmClassification
+algorithmName: MalletCRF_SEQ_MR
+algorithmParameters: ''
+classAnnotationType: null
+classAnnotationTypes:
+- Disease
+classLabels:
+- O
+- Disease|B
+- Disease|I
+engineClass: gate.plugin.learningframework.engines.EngineMBMalletSeq
+modelClass: cc.mallet.fst.CRF
+modelWhenTrained: '2019-03-21 13:12:39'
+nrTargetValues: 3
+nrTrainingDimensions: 7052
+nrTrainingDocuments: 47
+nrTrainingInstances: 2569
+seqEncoderClass: gate.plugin.learningframework.features.SeqEncoder_SimpleBIO
+seqEncoderOptions: '{}'
+targetFeature: LF_class
+task: SEQUENCE_TAGGER
+trainerClass: null
+trainingCorpusName: training

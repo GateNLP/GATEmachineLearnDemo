@@ -1,0 +1,21 @@
+algorithmClass: gate.plugin.learningframework.engines.AlgorithmClassification
+algorithmName: LibSVM_CL_MR
+algorithmParameters: ''
+classAnnotationType: null
+classAnnotationTypes: null
+classLabels:
+- neg
+- pos
+engineClass: gate.plugin.learningframework.engines.EngineMBLibSVM
+modelClass: libsvm.svm_model
+modelWhenTrained: '2019-03-21 10:49:19'
+nrTargetValues: 2
+nrTrainingDimensions: 2667
+nrTrainingDocuments: 400
+nrTrainingInstances: 400
+seqEncoderClass: null
+seqEncoderOptions: null
+targetFeature: class
+task: CLASSIFIER
+trainerClass: libsvm.svm
+trainingCorpusName: training
