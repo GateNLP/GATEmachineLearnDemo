@@ -1,0 +1,2281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator4</Name>
+  <Value className="java.lang.String">lh11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator5</Name>
+  <Value className="java.lang.String">lh63</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">corpusname</Name>
+  <Value className="java.lang.String">C0504</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator1</Name>
+  <Value className="java.lang.String">lh44</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator2</Name>
+  <Value className="java.lang.String">lh71</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator3</Name>
+  <Value className="java.lang.String">lh48</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>In <Node id="3"/>organic <Node id="11"/>chemistry<Node id="20"/> , <Node id="23"/>methyl <Node id="30"/>nitrite<Node id="37"/> is the simplest <Node id="54"/>alkyl <Node id="60"/>nitrite<Node id="67"/> .<Node id="69"/>
+<Node id="70"/>Contents<Node id="78"/>
+<Node id="79"/>Structure<Node id="88"/>
+<Node id="89"/>Synthesis<Node id="98"/>
+<Node id="99"/>See also<Node id="107"/>
+<Node id="108"/>References<Node id="118"/>
+<Node id="119"/>External links<Node id="133"/>
+<Node id="134"/>
+<Node id="135"/>Structure<Node id="144"/>
+
+<Node id="146"/>At <Node id="149"/>room temperature<Node id="165"/>, <Node id="167"/>methyl <Node id="174"/>nitrite<Node id="181"/> exists as a mixture of <Node id="205"/>cis<Node id="208"/> and <Node id="213"/>trans<Node id="218"/> <Node id="219"/>conformers<Node id="229"/> . The <Node id="236"/>cis<Node id="239"/> conformer is 3.13 kJ mol <Node id="265"/>−1<Node id="267"/> more stable than the <Node id="289"/>trans<Node id="294"/> form, with an <Node id="309"/>energy<Node id="315"/> barrier<Node id="323"/> to rotation of 45.3 kJ mol <Node id="351"/>−1<Node id="353"/> . <Node id="356"/>[1]<Node id="359"/>
+
+<Node id="361"/>cis<Node id="364"/> -methyl <Node id="373"/>nitrite<Node id="380"/>
+<Node id="381"/>trans<Node id="386"/> -methyl <Node id="395"/>nitrite<Node id="402"/>
+<Node id="403"/>
+<Node id="404"/>Synthesis<Node id="413"/>
+
+<Node id="415"/>Methyl <Node id="422"/>nitrite<Node id="429"/> can be prepared by the reaction of <Node id="465"/>silver<Node id="471"/> <Node id="472"/>nitrite<Node id="479"/> with a <Node id="487"/>iodomethane<Node id="498"/> : <Node id="501"/>Silver<Node id="507"/> <Node id="508"/>nitrite<Node id="515"/> <Node id="516"/>(<Node id="517"/>Ag<Node id="519"/>NO <Node id="522"/>2<Node id="523"/> )<Node id="525"/> exists in solution as the <Node id="552"/>silver<Node id="558"/> <Node id="559"/>ion<Node id="562"/> , <Node id="565"/>Ag<Node id="567"/> <Node id="568"/>+<Node id="569"/> and the <Node id="578"/>nitrite<Node id="585"/> ion,<Node id="590"/> NO <Node id="594"/>2<Node id="595"/> <Node id="596"/>−<Node id="597"/> . One of the <Node id="611"/>lone pairs<Node id="621"/> on an <Node id="628"/>oxygen<Node id="634"/> from <Node id="640"/>nitrite<Node id="647"/> ion <Node id="652"/>attacks<Node id="659"/> the <Node id="664"/>methyl group<Node id="676"/> (—<Node id="679"/>CH<Node id="681"/> <Node id="682"/>3<Node id="683"/> ), releasing the <Node id="701"/>iodide<Node id="707"/> ion <Node id="712"/>into solution. <Node id="727"/>[2]<Node id="730"/> Unlike <Node id="738"/>silver<Node id="744"/> <Node id="745"/>nitrite<Node id="752"/>, <Node id="754"/>silver<Node id="760"/> <Node id="761"/>iodide<Node id="767"/> is highly <Node id="778"/>insoluble<Node id="787"/> in <Node id="791"/>water<Node id="796"/> and thus forms a solid. <Node id="821"/>[3]<Node id="824"/> Note that <Node id="835"/>nitrogen<Node id="843"/> is a better nucleophile than <Node id="873"/>oxygen<Node id="879"/> and most <Node id="889"/>nitrites<Node id="897"/> would react via an <Node id="917"/>S <Node id="919"/>N<Node id="920"/> 2<Node id="922"/> -like mechanism and the major product would be<Node id="969"/> <Node id="970"/>nitromethane<Node id="982"/> . For example, <Node id="998"/>sodium<Node id="1004"/> and <Node id="1009"/>potassium <Node id="1019"/>nitrite<Node id="1026"/> reacting with <Node id="1041"/>iodomethane<Node id="1052"/> would produce mostly <Node id="1074"/>nitromethane<Node id="1086"/>, with <Node id="1093"/>methyl <Node id="1100"/>nitrite<Node id="1107"/> as the minor product. However, the presence of the <Node id="1159"/>silver<Node id="1165"/> ion in solution has a stabilizing effect on the formation of <Node id="1227"/>carbocation<Node id="1238"/> <Node id="1239"/>intermediates<Node id="1252"/> , increasing the percent yield of methyl <Node id="1294"/>nitrite<Node id="1301"/>. In either case, some <Node id="1324"/>nitromethane <Node id="1337"/>and <Node id="1341"/>methyl <Node id="1348"/>nitrite<Node id="1355"/> are both formed. <Node id="1373"/>[2]<Node id="1376"/>
+<Node id="1377"/>
+<Node id="1378"/>This compound is produced by the combustion of <Node id="1425"/>unleaded <Node id="1434"/>petrol<Node id="1440"/> , and might be a cause of the decline of <Node id="1482"/>insects<Node id="1489"/> , and hence that of the <Node id="1514"/>House Sparrow<Node id="1527"/> and other <Node id="1538"/>songbirds<Node id="1547"/> in <Node id="1551"/>Europe<Node id="1557"/> . <Node id="1560"/>[4]<Node id="1563"/>
+<Node id="1564"/>See also<Node id="1572"/>
+<Node id="1573"/>Nitromethane<Node id="1585"/>
+<Node id="1586"/>Organic <Node id="1594"/>chemistry<Node id="1603"/>
+<Node id="1604"/>Nucleophilic substitution<Node id="1629"/>
+<Node id="1630"/>References<Node id="1640"/>
+<Node id="1641"/>↑<Node id="1642"/>
+<Node id="1643"/>↑ <Node id="1645"/>a<Node id="1646"/> <Node id="1647"/>b<Node id="1648"/>
+<Node id="1649"/>↑<Node id="1650"/>
+<Node id="1651"/>↑<Node id="1652"/>
+<Node id="1653"/>External links<Node id="1667"/>
+<Node id="1668"/>WebBook page for <Node id="1685"/>CH<Node id="1687"/>3NO2<Node id="1691"/>
+<Node id="1692"/>
+<Node id="1693"/>es<Node id="1695"/>:Nitrito de metilo<Node id="1713"/> <Node id="1714"/>fa:متیل نیتریت<Node id="1728"/> <Node id="1729"/>fr:<Node id="1732"/>Nitrite<Node id="1739"/> de méthyle<Node id="1750"/> <Node id="1751"/>nl:Methylnitriet<Node id="1767"/> <Node id="1768"/>pl:Azotyn metylu<Node id="1784"/> <Node id="1785"/>fi:Metyylinitriitti<Node id="1804"/>
+<Node id="1805"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator2">
+<Annotation Id="1016" Type="Drug" StartNode="754" EndNode="760">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1017" Type="Drug" StartNode="791" EndNode="796">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0043047</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1021" Type="Drug" StartNode="873" EndNode="879">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0030054</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1037" Type="Drug" StartNode="1041" EndNode="1052">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0066254</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1039" Type="Drug" StartNode="1159" EndNode="1165">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1010" Type="Drug" StartNode="640" EndNode="647">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1011" Type="Investigation" StartNode="679" EndNode="681">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0007926</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T034</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory or Test Result</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1012" Type="Drug" StartNode="738" EndNode="744">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1028" Type="Drug" StartNode="998" EndNode="1004">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0676049</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1014" Type="Drug" StartNode="745" EndNode="752">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1049" Type="Drug" StartNode="23" EndNode="37">
+</Annotation>
+<Annotation Id="1000" Type="Drug" StartNode="508" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1048" Type="Content" StartNode="0" EndNode="1805">
+</Annotation>
+<Annotation Id="1003" Type="Drug" StartNode="552" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1051" Type="Drug" StartNode="361" EndNode="402">
+</Annotation>
+<Annotation Id="1050" Type="Drug" StartNode="167" EndNode="181">
+</Annotation>
+<Annotation Id="1053" Type="Drug" StartNode="465" EndNode="479">
+</Annotation>
+<Annotation Id="1004" Type="Drug" StartNode="565" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0002555</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1052" Type="Drug" StartNode="415" EndNode="429">
+</Annotation>
+<Annotation Id="1007" Type="Drug" StartNode="628" EndNode="634">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0030054</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1055" Type="Drug" StartNode="578" EndNode="590">
+</Annotation>
+<Annotation Id="1054" Type="Drug" StartNode="516" EndNode="525">
+</Annotation>
+<Annotation Id="1041" Type="Drug" StartNode="1294" EndNode="1301">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1043" Type="Investigation" StartNode="1594" EndNode="1603">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0201682</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="997" Type="Drug" StartNode="487" EndNode="498">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0066254</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="999" Type="Drug" StartNode="501" EndNode="507">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1047" Type="Investigation" StartNode="1732" EndNode="1739">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1046" Type="Anatomy" StartNode="1693" EndNode="1695">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C1552150</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T023</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Body Part, Organ, or Organ Component</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1066" Type="Drug" StartNode="1239" EndNode="1252">
+</Annotation>
+<Annotation Id="986" Type="Drug" StartNode="60" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1067" Type="Drug" StartNode="1324" EndNode="1337">
+</Annotation>
+<Annotation Id="1064" Type="Drug" StartNode="1093" EndNode="1107">
+</Annotation>
+<Annotation Id="984" Type="Investigation" StartNode="11" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0201682</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1065" Type="Drug" StartNode="1227" EndNode="1238">
+</Annotation>
+<Annotation Id="1070" Type="Drug" StartNode="1573" EndNode="1586">
+</Annotation>
+<Annotation Id="1068" Type="Drug" StartNode="1341" EndNode="1355">
+</Annotation>
+<Annotation Id="1069" Type="Drug" StartNode="1434" EndNode="1440">
+</Annotation>
+<Annotation Id="1058" Type="Drug" StartNode="761" EndNode="767">
+</Annotation>
+<Annotation Id="1059" Type="Drug" StartNode="835" EndNode="843">
+</Annotation>
+<Annotation Id="1056" Type="Drug" StartNode="664" EndNode="676">
+</Annotation>
+<Annotation Id="1057" Type="Drug" StartNode="701" EndNode="712">
+</Annotation>
+<Annotation Id="1062" Type="Drug" StartNode="1009" EndNode="1026">
+</Annotation>
+<Annotation Id="1063" Type="Drug" StartNode="1074" EndNode="1086">
+</Annotation>
+<Annotation Id="1060" Type="Drug" StartNode="889" EndNode="897">
+</Annotation>
+<Annotation Id="1061" Type="Drug" StartNode="969" EndNode="982">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator3">
+<Annotation Id="1016" Type="Drug" StartNode="754" EndNode="760">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1017" Type="Drug" StartNode="791" EndNode="796">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0043047</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1036" Type="Drug" StartNode="1019" EndNode="1026">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1021" Type="Drug" StartNode="873" EndNode="879">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0030054</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1037" Type="Drug" StartNode="1041" EndNode="1052">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0066254</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1038" Type="Drug" StartNode="1100" EndNode="1107">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1039" Type="Drug" StartNode="1159" EndNode="1165">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1010" Type="Drug" StartNode="640" EndNode="647">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1011" Type="Drug" StartNode="679" EndNode="681">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0007926</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T034</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory or Test Result</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1012" Type="Drug" StartNode="738" EndNode="744">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1028" Type="Drug" StartNode="998" EndNode="1004">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0676049</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1014" Type="Drug" StartNode="745" EndNode="752">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1001" Type="Drug" StartNode="517" EndNode="519">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0002555</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1000" Type="Drug" StartNode="508" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1048" Type="Content" StartNode="0" EndNode="1805">
+</Annotation>
+<Annotation Id="1003" Type="Drug" StartNode="552" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1005" Type="Drug" StartNode="578" EndNode="585">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1004" Type="Drug" StartNode="565" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0002555</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1007" Type="Drug" StartNode="628" EndNode="634">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0030054</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1041" Type="Drug" StartNode="1294" EndNode="1301">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="993" Type="Drug" StartNode="422" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="992" Type="Drug" StartNode="395" EndNode="402">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1043" Type="Investigation" StartNode="1594" EndNode="1603">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0201682</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="995" Type="Drug" StartNode="465" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1042" Type="Drug" StartNode="1348" EndNode="1355">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1045" Type="Drug" StartNode="1685" EndNode="1687">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0007926</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T034</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory or Test Result</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="997" Type="Drug" StartNode="487" EndNode="498">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0066254</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="996" Type="Drug" StartNode="472" EndNode="479">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1047" Type="Drug" StartNode="1732" EndNode="1739">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="999" Type="Drug" StartNode="501" EndNode="507">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0947651</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Pharmacologic Substance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="986" Type="Drug" StartNode="60" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="984" Type="Investigation" StartNode="11" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0201682</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="985" Type="Drug" StartNode="30" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="990" Type="Disease" StartNode="309" EndNode="315">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0424589</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Finding</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="991" Type="Drug" StartNode="373" EndNode="380">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="988" Type="Disease" StartNode="149" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C1822393</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Finding</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="989" Type="Drug" StartNode="174" EndNode="181">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator1">
+<Annotation Id="1049" Type="Drug" StartNode="167" EndNode="181">
+</Annotation>
+<Annotation Id="1048" Type="Content" StartNode="0" EndNode="1805">
+</Annotation>
+<Annotation Id="1051" Type="Drug" StartNode="415" EndNode="429">
+</Annotation>
+<Annotation Id="1050" Type="Drug" StartNode="23" EndNode="37">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ConsensusAuto">
+<Annotation Id="1071" Type="Investigation" StartNode="1732" EndNode="1739">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0523792</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1075" Type="Disease" StartNode="309" EndNode="315">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0424589</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Finding</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1074" Type="Investigation" StartNode="11" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0201682</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator2/annotator3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1073" Type="Investigation" StartNode="1594" EndNode="1603">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0201682</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator2/annotator3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory Procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1072" Type="Investigation" StartNode="679" EndNode="681">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C0007926</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T034</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Laboratory or Test Result</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1078" Type="Content" StartNode="0" EndNode="1805">
+</Annotation>
+<Annotation Id="1077" Type="Anatomy" StartNode="1693" EndNode="1695">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C1552150</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T023</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Body Part, Organ, or Organ Component</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="1076" Type="Disease" StartNode="149" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">cui</Name>
+  <Value className="java.lang.String">C1822393</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui</Name>
+  <Value className="java.lang.String">T033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">annotators</Name>
+  <Value className="java.lang.String">annotator3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">tui-name</Name>
+  <Value className="java.lang.String">Finding</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="1805">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="body" StartNode="0" EndNode="1805">
+</Annotation>
+<Annotation Id="3" Type="p" StartNode="0" EndNode="69">
+</Annotation>
+<Annotation Id="4" Type="a" StartNode="3" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">organic chemistry</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Organic_chemistry</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="b" StartNode="23" EndNode="37">
+</Annotation>
+<Annotation Id="6" Type="a" StartNode="54" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">alkyl nitrite</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Alkyl_nitrite</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="table" StartNode="70" EndNode="135">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">toc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">summary</Name>
+  <Value className="java.lang.String">Contents</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">toc</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="tbody" StartNode="70" EndNode="135">
+</Annotation>
+<Annotation Id="9" Type="tr" StartNode="70" EndNode="134">
+</Annotation>
+<Annotation Id="10" Type="td" StartNode="70" EndNode="134">
+</Annotation>
+<Annotation Id="11" Type="div" StartNode="70" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">toctitle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="h2" StartNode="70" EndNode="78">
+</Annotation>
+<Annotation Id="13" Type="ul" StartNode="79" EndNode="134">
+</Annotation>
+<Annotation Id="14" Type="ul" StartNode="79" EndNode="134">
+</Annotation>
+<Annotation Id="15" Type="li" StartNode="79" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">toclevel-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="li" StartNode="89" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">toclevel-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="a" StartNode="79" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#Structure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="li" StartNode="99" EndNode="107">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">toclevel-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="a" StartNode="89" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#Synthesis</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="li" StartNode="108" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">toclevel-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="a" StartNode="99" EndNode="107">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#See_also</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="li" StartNode="119" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">toclevel-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="a" StartNode="108" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="hr" StartNode="135" EndNode="135">
+</Annotation>
+<Annotation Id="24" Type="a" StartNode="119" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#External_links</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="span" StartNode="135" EndNode="144">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">Structure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="h2" StartNode="135" EndNode="144">
+</Annotation>
+<Annotation Id="29" Type="i" StartNode="205" EndNode="208">
+</Annotation>
+<Annotation Id="28" Type="p" StartNode="146" EndNode="359">
+</Annotation>
+<Annotation Id="31" Type="a" StartNode="219" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">conformer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Conformer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="i" StartNode="213" EndNode="218">
+</Annotation>
+<Annotation Id="34" Type="i" StartNode="289" EndNode="294">
+</Annotation>
+<Annotation Id="35" Type="a" StartNode="309" EndNode="323">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">activation energy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Activation_energy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="i" StartNode="236" EndNode="239">
+</Annotation>
+<Annotation Id="33" Type="sup" StartNode="265" EndNode="267">
+</Annotation>
+<Annotation Id="38" Type="a" StartNode="356" EndNode="359">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_note-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="p" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="sup" StartNode="351" EndNode="353">
+</Annotation>
+<Annotation Id="37" Type="sup" StartNode="356" EndNode="359">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_ref-1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">reference</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="table" StartNode="361" EndNode="404">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">wikitable</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">align</Name>
+  <Value className="java.lang.String">center</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="tbody" StartNode="361" EndNode="404">
+</Annotation>
+<Annotation Id="40" Type="center" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="div" StartNode="361" EndNode="404">
+<Feature>
+  <Name className="java.lang.String">style</Name>
+  <Value className="java.lang.String">page-break-inside: avoid;</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="center" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="a" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">File:140px-Cis-methyl-nitrite-3D-balls.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">image</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="tr" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="td" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="a" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">File:180px-Trans-methyl-nitrite-3D-balls.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">image</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="center" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="td" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="img" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">140px-Cis-methyl-nitrite-3D-balls.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">140</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="center" StartNode="361" EndNode="380">
+</Annotation>
+<Annotation Id="54" Type="td" StartNode="361" EndNode="381">
+</Annotation>
+<Annotation Id="53" Type="tr" StartNode="361" EndNode="403">
+</Annotation>
+<Annotation Id="52" Type="img" StartNode="361" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">180px-Trans-methyl-nitrite-3D-balls.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">180</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="center" StartNode="381" EndNode="402">
+</Annotation>
+<Annotation Id="58" Type="td" StartNode="381" EndNode="403">
+</Annotation>
+<Annotation Id="57" Type="i" StartNode="361" EndNode="364">
+</Annotation>
+<Annotation Id="56" Type="small" StartNode="361" EndNode="380">
+</Annotation>
+<Annotation Id="63" Type="h2" StartNode="404" EndNode="413">
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="404" EndNode="404">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="i" StartNode="381" EndNode="386">
+</Annotation>
+<Annotation Id="60" Type="small" StartNode="381" EndNode="402">
+</Annotation>
+<Annotation Id="68" Type="a" StartNode="487" EndNode="498">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">iodomethane</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Iodomethane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="sub" StartNode="522" EndNode="523">
+</Annotation>
+<Annotation Id="70" Type="a" StartNode="559" EndNode="562">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">ion</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Ion</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="sup" StartNode="568" EndNode="569">
+</Annotation>
+<Annotation Id="64" Type="span" StartNode="404" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">Synthesis</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="p" StartNode="415" EndNode="1376">
+</Annotation>
+<Annotation Id="66" Type="a" StartNode="465" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">silver</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Silver</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="a" StartNode="472" EndNode="479">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">nitrite</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nitrite</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="sub" StartNode="682" EndNode="683">
+</Annotation>
+<Annotation Id="77" Type="a" StartNode="701" EndNode="707">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">iodide</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Iodide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="sup" StartNode="727" EndNode="730">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_ref-organic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">reference</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="a" StartNode="727" EndNode="730">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_note-organic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="sub" StartNode="594" EndNode="595">
+</Annotation>
+<Annotation Id="73" Type="sup" StartNode="596" EndNode="597">
+</Annotation>
+<Annotation Id="74" Type="a" StartNode="611" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">lone pair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Lone_pair</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="a" StartNode="652" EndNode="659">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">nucleophilic attack</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nucleophilic_attack</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="a" StartNode="917" EndNode="922">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">SN2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">SN2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="a" StartNode="873" EndNode="879">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">oxygen</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Oxygen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="a" StartNode="970" EndNode="982">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">nitromethane</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nitromethane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="sub" StartNode="919" EndNode="920">
+</Annotation>
+<Annotation Id="81" Type="sup" StartNode="821" EndNode="824">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_ref-3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">reference</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="i" StartNode="778" EndNode="787">
+</Annotation>
+<Annotation Id="83" Type="a" StartNode="835" EndNode="843">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">nitrogen</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nitrogen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="a" StartNode="821" EndNode="824">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_note-3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="a" StartNode="1373" EndNode="1376">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_note-organic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="sup" StartNode="1373" EndNode="1376">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_ref-organic_b</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">reference</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="dd" StartNode="1377" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="dl" StartNode="1377" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="a" StartNode="1009" EndNode="1026">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">potassium nitrite</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Potassium_nitrite</Value>
+</Feature>
+</Annotation>
+<Annotation Id="88" Type="a" StartNode="998" EndNode="1004">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">sodium nitrite</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Sodium_nitrite</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="a" StartNode="1239" EndNode="1252">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">reaction intermediate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Reaction_intermediate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="a" StartNode="1227" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">carbocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Carbocation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="a" StartNode="1538" EndNode="1547">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">songbird</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Songbird</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="a" StartNode="1551" EndNode="1557">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Europe</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Europe</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="a" StartNode="1482" EndNode="1489">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">insect</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Insect</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="a" StartNode="1514" EndNode="1527">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">House Sparrow</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">House_Sparrow</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="p" StartNode="1378" EndNode="1563">
+</Annotation>
+<Annotation Id="99" Type="a" StartNode="1425" EndNode="1440">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">unleaded petrol</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Unleaded_petrol</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="a" StartNode="1377" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">File:350px-Preparation_of_methyl_nitrite.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">image</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="img" StartNode="1377" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">350px-Preparation_of_methyl_nitrite.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">350</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="a" StartNode="1573" EndNode="1585">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Nitromethane</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nitromethane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="li" StartNode="1586" EndNode="1603">
+</Annotation>
+<Annotation Id="108" Type="ul" StartNode="1573" EndNode="1630">
+</Annotation>
+<Annotation Id="109" Type="li" StartNode="1573" EndNode="1585">
+</Annotation>
+<Annotation Id="106" Type="h2" StartNode="1564" EndNode="1572">
+</Annotation>
+<Annotation Id="107" Type="span" StartNode="1564" EndNode="1572">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">See_also</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="sup" StartNode="1560" EndNode="1563">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_ref-4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">reference</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="a" StartNode="1560" EndNode="1563">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_note-4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="119" Type="b" StartNode="1641" EndNode="1642">
+</Annotation>
+<Annotation Id="118" Type="li" StartNode="1641" EndNode="1642">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_note-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="117" Type="ol" StartNode="1641" EndNode="1653">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">references</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="span" StartNode="1630" EndNode="1640">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="h2" StartNode="1630" EndNode="1640">
+</Annotation>
+<Annotation Id="114" Type="a" StartNode="1604" EndNode="1629">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Nucleophilic substitution</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nucleophilic_substitution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="113" Type="li" StartNode="1604" EndNode="1629">
+</Annotation>
+<Annotation Id="112" Type="a" StartNode="1586" EndNode="1603">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Organic chemistry</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Organic_chemistry</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="sup" StartNode="1647" EndNode="1648">
+</Annotation>
+<Annotation Id="126" Type="a" StartNode="1647" EndNode="1648">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_ref-organic_b</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="b" StartNode="1645" EndNode="1646">
+</Annotation>
+<Annotation Id="124" Type="i" StartNode="1645" EndNode="1646">
+</Annotation>
+<Annotation Id="123" Type="sup" StartNode="1645" EndNode="1646">
+</Annotation>
+<Annotation Id="122" Type="a" StartNode="1645" EndNode="1646">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_ref-organic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="li" StartNode="1643" EndNode="1648">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_note-organic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="120" Type="a" StartNode="1641" EndNode="1642">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_ref-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="span" StartNode="1653" EndNode="1667">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">External_links</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="136" Type="h2" StartNode="1653" EndNode="1667">
+</Annotation>
+<Annotation Id="139" Type="li" StartNode="1668" EndNode="1691">
+</Annotation>
+<Annotation Id="138" Type="ul" StartNode="1668" EndNode="1692">
+</Annotation>
+<Annotation Id="141" Type="p" StartNode="1693" EndNode="1693">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="140" Type="a" StartNode="1668" EndNode="1691">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">externallink</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">http://webbook.nist.gov/cgi/cbook.cgi?ID=C624919</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rel</Name>
+  <Value className="java.lang.String">nofollow</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://webbook.nist.gov/cgi/cbook.cgi?ID=C624919</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="a" StartNode="1693" EndNode="1713">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://es.wikipedia.org/wiki/Nitrito_de_metilo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="142" Type="p" StartNode="1693" EndNode="1804">
+</Annotation>
+<Annotation Id="129" Type="b" StartNode="1647" EndNode="1648">
+</Annotation>
+<Annotation Id="128" Type="i" StartNode="1647" EndNode="1648">
+</Annotation>
+<Annotation Id="131" Type="b" StartNode="1649" EndNode="1650">
+</Annotation>
+<Annotation Id="130" Type="li" StartNode="1649" EndNode="1650">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_note-3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="133" Type="li" StartNode="1651" EndNode="1652">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">_note-4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="a" StartNode="1649" EndNode="1650">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_ref-3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="a" StartNode="1651" EndNode="1652">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">#_ref-4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="134" Type="b" StartNode="1651" EndNode="1652">
+</Annotation>
+<Annotation Id="144" Type="a" StartNode="1714" EndNode="1728">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://fa.wikipedia.org/wiki/%D9%85%D8%AA%DB%8C%D9%84_%D9%86%DB%8C%D8%AA%D8%B1%DB%8C%D8%AA</Value>
+</Feature>
+</Annotation>
+<Annotation Id="145" Type="a" StartNode="1729" EndNode="1750">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://fr.wikipedia.org/wiki/Nitrite_de_m%C3%A9thyle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="146" Type="a" StartNode="1751" EndNode="1767">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://nl.wikipedia.org/wiki/Methylnitriet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="147" Type="a" StartNode="1768" EndNode="1784">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://pl.wikipedia.org/wiki/Azotyn_metylu</Value>
+</Feature>
+</Annotation>
+<Annotation Id="148" Type="a" StartNode="1785" EndNode="1804">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://fi.wikipedia.org/wiki/Metyylinitriitti</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator4">
+<Annotation Id="1048" Type="Content" StartNode="0" EndNode="1805">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator5">
+<Annotation Id="1048" Type="Content" StartNode="0" EndNode="1805">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator4</Name>
+  <Value className="java.lang.String">lh31</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator5</Name>
+  <Value className="java.lang.String">lh20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">other</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">corpusname</Name>
+  <Value className="java.lang.String">C0504</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator1</Name>
+  <Value className="java.lang.String">lh44</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator2</Name>
+  <Value className="java.lang.String">lh16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">safe.asname.annotator3</Name>
+  <Value className="java.lang.String">lh40</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Market Basket<Node id="13"/> is a <Node id="19"/>supermarket<Node id="30"/> chain that serves southeast <Node id="59"/>Texas<Node id="64"/> and <Node id="69"/>Louisiana<Node id="78"/> . Formed in 1962, the grocer now operates 34 Market Basket stores and four Lucky Seven conventional supermarkets and employs 2,200 associates. It is headquartered in <Node id="245"/>Nederland, Texas<Node id="261"/> .<Node id="263"/>
+<Node id="264"/>History<Node id="271"/>
+
+<Node id="273"/>Johnnie Alford, Ed Hughes, Howard Hatfield, Roy Theriot and Bruce Thompson founded Market Basket in early 1962. Each was an independent grocer, owning one store each. The five grocers joined together in order to keep advertising costs low and pool their purchasing power. Three of the grocers remained one-supermarket operators while Hughes and Thompson formed a 50-50 corporation for joint expansion.<Node id="674"/>
+
+<Node id="676"/>Thompson and Hughes bought four stores as partners in the 1960s. During the early 70’s they obtained former <Node id="784"/>A&amp;P<Node id="787"/> , <Node id="790"/>Kroger<Node id="796"/> and <Node id="801"/>Weingarten's<Node id="813"/> stores in <Node id="824"/>Lake Charles<Node id="836"/> , <Node id="839"/>Beaumont<Node id="847"/> , <Node id="850"/>Port Arthur<Node id="861"/> and <Node id="866"/>Orange<Node id="872"/> . In 1983, Bruce Thompson purchased Hughes’ interest in their jointly held corporation.<Node id="960"/>
+
+<Node id="962"/>During the 1980s, two new stores were constructed, and the chain grew with the acquisition of 14 more stores formerly operated by <Node id="1092"/>Piggly Wiggly<Node id="1105"/> , <Node id="1108"/>Safeway<Node id="1115"/> , <Node id="1118"/>Theriot’s<Node id="1127"/> , <Node id="1130"/>Winn-Dixie<Node id="1140"/> , and <Node id="1147"/>Weingarten's<Node id="1159"/> .<Node id="1161"/>
+
+<Node id="1163"/>The next decade saw Market Basket begin an extensive remodeling and expansion program for half of the chain. More stores in the 90’s were acquired, including four <Node id="1326"/>cash and carry<Node id="1340"/> locations and three <Node id="1361"/>AppleTree<Node id="1370"/> stores. The <Node id="1383"/>Mauriceville<Node id="1395"/> location was replaced with a newly constructed store during this time.<Node id="1466"/>
+
+<Node id="1468"/>During the summer of 2001, the company purchased two <Node id="1521"/>Hughes Market Basket<Node id="1541"/> stores, in Port Arthur and <Node id="1569"/>Nederland<Node id="1578"/> . In 2002, the grocer purchased two <Node id="1615"/>Price-Lo<Node id="1623"/> stores in <Node id="1634"/>Vidor<Node id="1639"/> and <Node id="1644"/>DeRidder<Node id="1652"/> . <Node id="1655"/>Stanley’s<Node id="1664"/> in <Node id="1668"/>Leesville<Node id="1677"/> and <Node id="1682"/>Pair’s<Node id="1688"/> in <Node id="1692"/>Winnie<Node id="1698"/> were added, as well.<Node id="1719"/>
+
+<Node id="1721"/>During the 1980s, several supermarkets in <Node id="1763"/>Southern California<Node id="1782"/> operated under the Market Basket branding. The stores were reverted to the <Node id="1858"/>Boys Markets<Node id="1870"/> branding, after acquiring the chain. Boys Markets was acquired by the <Node id="1941"/>Yucaipa Companies<Node id="1958"/> in 1989. When Yucaipa acquired <Node id="1990"/>Ralphs<Node id="1996"/> , the Boys brand disappeared.<Node id="2026"/>
+<Node id="2027"/>External links<Node id="2041"/>
+<Node id="2042"/>Market Basket Homepage<Node id="2064"/>
+<Node id="2065"/>
+<Node id="2066"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator2">
+<Annotation Id="936" Type="Content" StartNode="0" EndNode="2066">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator3">
+<Annotation Id="936" Type="Content" StartNode="0" EndNode="2066">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator1">
+<Annotation Id="936" Type="Content" StartNode="0" EndNode="2066">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ConsensusAuto">
+<Annotation Id="937" Type="Content" StartNode="0" EndNode="2066">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="2066">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="body" StartNode="0" EndNode="2066">
+</Annotation>
+<Annotation Id="3" Type="p" StartNode="0" EndNode="263">
+</Annotation>
+<Annotation Id="4" Type="b" StartNode="0" EndNode="13">
+</Annotation>
+<Annotation Id="5" Type="a" StartNode="19" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">supermarket</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Supermarket</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="a" StartNode="59" EndNode="64">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="a" StartNode="69" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Louisiana</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Louisiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="a" StartNode="245" EndNode="261">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Nederland, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nederland%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="h2" StartNode="264" EndNode="271">
+</Annotation>
+<Annotation Id="10" Type="span" StartNode="264" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">History</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="273" EndNode="674">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="676" EndNode="960">
+</Annotation>
+<Annotation Id="13" Type="a" StartNode="784" EndNode="787">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">A&amp;P</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">A%26P</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="a" StartNode="790" EndNode="796">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Kroger</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Kroger</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="a" StartNode="801" EndNode="813">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Weingarten's</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Weingarten's</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="a" StartNode="839" EndNode="847">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Beaumont, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Beaumont%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="a" StartNode="824" EndNode="836">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Lake Charles, Louisiana</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Lake_Charles%2C_Louisiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="a" StartNode="866" EndNode="872">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Orange, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Orange%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="a" StartNode="850" EndNode="861">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Port Arthur, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Port_Arthur%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="a" StartNode="1092" EndNode="1105">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Piggly Wiggly</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Piggly_Wiggly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="962" EndNode="1161">
+</Annotation>
+<Annotation Id="23" Type="a" StartNode="1118" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Theriot’s</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Theriot%E2%80%99s</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="a" StartNode="1108" EndNode="1115">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Safeway Inc.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Safeway_Inc.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="a" StartNode="1147" EndNode="1159">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Weingarten's</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Weingarten's</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="a" StartNode="1130" EndNode="1140">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Winn-Dixie</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Winn-Dixie</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="a" StartNode="1326" EndNode="1340">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Cash and carry (wholesale)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Cash_and_carry_(wholesale)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="p" StartNode="1163" EndNode="1466">
+</Annotation>
+<Annotation Id="29" Type="a" StartNode="1383" EndNode="1395">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Mauriceville, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Mauriceville%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="a" StartNode="1361" EndNode="1370">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">AppleTree Markets</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">AppleTree_Markets</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="a" StartNode="1521" EndNode="1541">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Hughes Market Basket</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Hughes_Market_Basket</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="p" StartNode="1468" EndNode="1719">
+</Annotation>
+<Annotation Id="34" Type="a" StartNode="1634" EndNode="1639">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Vidor, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Vidor%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="a" StartNode="1644" EndNode="1652">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">DeRidder, Louisiana</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">DeRidder%2C_Louisiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="a" StartNode="1569" EndNode="1578">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Nederland, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Nederland%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="a" StartNode="1615" EndNode="1623">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Price-Lo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Price-Lo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="a" StartNode="1682" EndNode="1688">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Pair’s</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Pair%E2%80%99s</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="a" StartNode="1692" EndNode="1698">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Winnie, Texas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Winnie%2C_Texas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="a" StartNode="1655" EndNode="1664">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Stanley’s</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Stanley%E2%80%99s</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="a" StartNode="1668" EndNode="1677">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Leesville, Louisiana</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Leesville%2C_Louisiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="b" StartNode="1858" EndNode="1870">
+</Annotation>
+<Annotation Id="43" Type="a" StartNode="1858" EndNode="1870">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Boys Markets</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Boys_Markets</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="1721" EndNode="2026">
+</Annotation>
+<Annotation Id="41" Type="a" StartNode="1763" EndNode="1782">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Southern California</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Southern_California</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="h2" StartNode="2027" EndNode="2041">
+</Annotation>
+<Annotation Id="47" Type="span" StartNode="2027" EndNode="2041">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">External_links</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">mw-headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="a" StartNode="1941" EndNode="1958">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Yucaipa Companies</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Yucaipa_Companies</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="a" StartNode="1990" EndNode="1996">
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">Ralphs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">Ralphs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="2066" EndNode="2066">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="a" StartNode="2042" EndNode="2064">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">externallink</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">title</Name>
+  <Value className="java.lang.String">http://www.marketbasketfoods.com/index.php</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rel</Name>
+  <Value className="java.lang.String">nofollow</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">http://www.marketbasketfoods.com/index.php</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="li" StartNode="2042" EndNode="2064">
+</Annotation>
+<Annotation Id="48" Type="ul" StartNode="2042" EndNode="2065">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator4">
+<Annotation Id="936" Type="Content" StartNode="0" EndNode="2066">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="annotator5">
+<Annotation Id="936" Type="Content" StartNode="0" EndNode="2066">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
